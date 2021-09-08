@@ -31,7 +31,8 @@ The library will load it automatically.
 Регистрируем шаблон
 ```Pattern.registerPattern('test','Test Pattern',function()
     return 'Its Test Pattern'
-end)```
+end)
+```
 
 Теперь если мы используем его, то он вернёт нам  'Its Test Pattern'
 
