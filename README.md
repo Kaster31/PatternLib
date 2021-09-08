@@ -21,7 +21,7 @@ We get information about the template that was originally intended for use in Im
 If you need to use one template in several scripts, then there is a template autoloading system for this. Create a lua script in the moonloader/Pattern folder.
 The library will load it automatically.
 
-### Russian
+### Русский
 Для регистрации шаблона используется - registerPattern(название шаблона, описание, функция возврата)
 Для получения текста шаблона используется - getPatternKey(название шаблона)
 
