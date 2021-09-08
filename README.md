@@ -6,7 +6,8 @@ To start, we connect the library
 ```local Pattern = require('Pattern')```
 
 Registering the template
-```Pattern.registerPattern('test','Test Pattern',function()
+```
+Pattern.registerPattern('test','Test Pattern',function()
     return 'Its Test Pattern'
 end)
 ```
@@ -28,7 +29,8 @@ The library will load it automatically.
 ```local Pattern = require('Pattern')```
 
 Регистрируем шаблон
-```Pattern.registerPattern('test','Test Pattern',function()
+```
+Pattern.registerPattern('test','Test Pattern',function()
     return 'Its Test Pattern'
 end)
 ```
