@@ -1,4 +1,3 @@
-##Information
 ### English
 To register a template, use - registerPattern(template name, description, return function)
 To get the template text, use-getPatternKey(template name)
