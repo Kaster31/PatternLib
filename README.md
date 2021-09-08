@@ -9,7 +9,8 @@ To start, we connect the library
 Registering the template
 ```Pattern.registerPattern('test','Test Pattern',function()
     return 'Its Test Pattern'
-end)```
+end)
+```
 
 Now if we use it, it will return us 'Its Test Pattern'
 
